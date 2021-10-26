@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file source-language="en-US" datatype="plaintext" original="ng2.template">
+		<body>
+			<trans-unit id="6072944654276369715" datatype="html">
+				<source>
+					Game List
+				</source>
+				<target>
+					Lista Gier
+				</target>
+				<context-group purpose="location">
+					<context context-type="sourcefile">
+						src/app/mainbar/mainbar.component.html
+					</context>
+					<context context-type="linenumber">
+						8
+					</context>
+				</context-group>
+			</trans-unit>
+			<trans-unit id="912603470222620816" datatype="html">
+				<source>
+					Search Games
+				</source>
+				<target>
+					Szukaj
+				</target>
+				<context-group purpose="location">
+					<context context-type="sourcefile">
+						src/app/mainbar/mainbar.component.html
+					</context>
+					<context context-type="linenumber">
+						9
+					</context>
+				</context-group>
+			</trans-unit>
+			<trans-unit id="4434075800540772971" datatype="html">
+				<source>
+					Game Rooms
+				</source>
+				<target>
+					Pokoje Gier
+				</target>
+				<context-group purpose="location">
+					<context context-type="sourcefile">
+						src/app/mainbar/mainbar.component.html
+					</context>
+					<context context-type="linenumber">
+						10
+					</context>
+				</context-group>
+			</trans-unit>
+			<trans-unit id="1232243299857951795" datatype="html">
+				<source>
+					Your Game Rooms
+				</source>
+				<target>
+					Twoje Pokoje Gier
+				</target>
+				<context-group purpose="location">
+					<context context-type="sourcefile">
+						src/app/mainbar/mainbar.component.html
+					</context>
+					<context context-type="linenumber">
+						14
+					</context>
+				</context-group>
+			</trans-unit>
+			<trans-unit id="7207521439676934371" datatype="html">
+				<source>
+					Your Games
+				</source>
+				<target>
+					Twoje Gry
+				</target>
+				<context-group purpose="location">
+					<context context-type="sourcefile">
+						src/app/mainbar/mainbar.component.html
+					</context>
+					<context context-type="linenumber">
+						15
+					</context>
+				</context-group>
+			</trans-unit>
+			<trans-unit id="3496181279436331299" datatype="html">
+				<source>
+					Your Profile
+				</source>
+				<target>
+					Twoj Profil
+				</target>
+				<context-group purpose="location">
+					<context context-type="sourcefile">
+						src/app/mainbar/mainbar.component.html
+					</context>
+					<context context-type="linenumber">
+						16
+					</context>
+				</context-group>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

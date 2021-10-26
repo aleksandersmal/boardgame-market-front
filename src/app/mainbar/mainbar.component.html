@@ -1,0 +1,18 @@
+
+<div class="mainbar">
+  <div class="top-mainbar">
+    <!-- <div class="search-container">SEARCH</div> -->
+  </div>
+  <div class="bottom-mainbar">
+    <div class="left-mainbar-side">
+      <a mat-button routerLink="/game-list" routerLinkActive="active" i18n>Game List</a>
+      <a mat-button routerLink="/games-search" routerLinkActive="active" i18n>Search Games</a>
+      <a mat-button routerLink="/games-search" routerLinkActive="active" i18n>Game Rooms</a>
+    </div>
+    <app-board-game-borrow-logo [isImage]="true" [size]="logoSize"></app-board-game-borrow-logo>
+    <div class="right-mainbar-side">
+      <a mat-button routerLink="/your-games" routerLinkActive="active" i18n> Your Game Rooms</a>
+      <a mat-button routerLink="/your-games" routerLinkActive="active" i18n>Your Games</a>
+      <a mat-button routerLink="/profile" routerLinkActive="active" i18n >Your Profile</a>
+  </div>
+</div>

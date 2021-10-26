@@ -8,3 +8,6 @@ import { Component } from '@angular/core';
 export class AppComponent {
   title = 'board-borrow-app';
 }
+if (window.matchMedia('(prefers-color-scheme)').media !== 'not all') {
+  console.log('🎉 Dark mode is supported');
+}

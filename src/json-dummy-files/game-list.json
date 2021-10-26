@@ -1,0 +1,72 @@
+    [
+        {
+            "name": "Gloomhaven",
+            "dateOfRelease": "2017",
+            "shortDescription": "Vanquish monsters with strategic cardplay. Fulfill your quest to leave your legacy!",
+            "description": "",
+            "bggRating": 8.8,
+            "noOfPlayerMin": 1,
+            "noOfPlayerMax": 4,
+            "recommendedNoOfPlayers": 3,
+            "avergePlayingTimeInMinutes": 90,
+            "recommendedMinimumAge": 14,
+            "complexity": 3.87,
+            "image": "gloomhaven.jpg"
+        },
+        {
+            "name": "Gaia Project",
+            "dateOfRelease": "2017",
+            "shortDescription": "Expand, research, upgrade, and settle the galaxy with one of 14 alien species.",
+            "description": "",
+            "bggRating": 8.5,
+            "noOfPlayerMin": 1,
+            "noOfPlayerMax": 4,
+            "recommendedNoOfPlayers": 4,
+            "avergePlayingTimeInMinutes": 105,
+            "recommendedMinimumAge": 12,
+            "complexity": 4.36,
+            "image": "gaiaProject.png"
+        },
+        {
+            "name": "Pandemic Legacy: Season 1 ",
+            "dateOfRelease": "2015",
+            "shortDescription": "Mutating diseases are spreading around the world - can your team save humanity? ",
+            "description": "",
+            "bggRating": 8.6,
+            "noOfPlayerMin": 2,
+            "noOfPlayerMax": 4,
+            "recommendedNoOfPlayers": 4,
+            "avergePlayingTimeInMinutes": 60,
+            "recommendedMinimumAge": 13,
+            "complexity": 2.83,
+            "image": "pandemicLegacacyS1.png"
+        },
+        {
+            "name": "Brass: Birmingham",
+            "dateOfRelease": "2018",
+            "shortDescription": "Build networks, grow industries, and navigate the world of the Industrial Revolution.",
+            "description": "",
+            "bggRating": 8.7,
+            "noOfPlayerMin": 2,
+            "noOfPlayerMax": 4,
+            "recommendedNoOfPlayers": 3,
+            "avergePlayingTimeInMinutes": 90,
+            "recommendedMinimumAge": 14,
+            "complexity": 3.90,
+            "image": "brassbirmingham.jpg"
+        },
+        {
+            "name": "Terraforming Mars",
+            "dateOfRelease": "2016",
+            "shortDescription": "Compete with rival CEOs to make Mars habitable and build your corporate empire.",
+            "description": "",
+            "bggRating": 8.4,
+            "noOfPlayerMin": 1,
+            "noOfPlayerMax": 5,
+            "recommendedNoOfPlayers": 3,
+            "avergePlayingTimeInMinutes": 120,
+            "recommendedMinimumAge": 12,
+            "complexity": 3.24,
+            "image": "terraformingmmars.jpg"
+        }
+    ]
